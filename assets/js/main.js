@@ -63,3 +63,6 @@
 				});
 
 })(jQuery);
+
+document.getElementById('clear-form').reset();
+
